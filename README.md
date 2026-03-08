@@ -6,7 +6,7 @@
 
 [![](https://github-profile-trophy.vercel.app/?username=LeonardoBasseto&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/](https://www.instagram.com/leonardo_basseto/)) [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leobasseto0910@gmail.com) [![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/](https://www.linkedin.com/in/leonardo-basseto-rodrigues-a267b9284/))
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=leobasseto0910@gmail.com)[![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-basseto-rodrigues-a267b9284/)
 
 [![](https://komarev.com/ghpvc/?username=LeonardoBasseto&label=Profile%20views&color=39d353&style=flat)](https://github.com/LeonardoBasseto)
 
